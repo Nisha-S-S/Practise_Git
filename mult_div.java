@@ -14,7 +14,7 @@ public class mult_div {
 		b = sc.nextInt();
 		int mult_ans = a*b;
 		// division code to be added
-		int div_ans = a/b;
+		float div_ans = a/b;
 
 		System.out.println("The multiplication is : "+ mult_ans);
 		//division code statement to be added
