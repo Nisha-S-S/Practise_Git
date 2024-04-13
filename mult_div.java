@@ -12,8 +12,8 @@ public class mult_div {
 		a = sc.nextInt();
 		System.out.println("Enter the value of b");
 		b = sc.nextInt();
-		int add_ans = a+b;
-		System.out.println("The addition is : "+ add_ans);
+		int mult_ans = a*b;
+		System.out.println("The multiplication is : "+ mult_ans);
 		
 		sc.close();
 		
