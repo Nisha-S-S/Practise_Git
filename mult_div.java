@@ -13,8 +13,10 @@ public class mult_div {
 		System.out.println("Enter the value of b");
 		b = sc.nextInt();
 		int mult_ans = a*b;
+		// division code to be added
+
 		System.out.println("The multiplication is : "+ mult_ans);
-		
+		//division code statement to be added
 		sc.close();
 		
 	}
